@@ -1,4 +1,5 @@
 # https://www.youtube.com/watch?v=lGLto9Xd7bU
+# Coding a Layer - Code a neuron with 4 weights and 3 outputs.
 
 inputs = [1, 2, 3, 2.5]
 
